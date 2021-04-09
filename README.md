@@ -6,5 +6,6 @@ Esse é o repositório da aula de Flexbox, na qual foi criado a interface de log
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-Link (https://iarleisouzadev.github.io/instagram/)
+
 ## 
+Link (https://iarleisouzadev.github.io/instagram/)
